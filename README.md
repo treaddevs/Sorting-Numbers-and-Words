@@ -1,4 +1,4 @@
-# Sorting-Numbers-and-Words-Alphabetically
+# Sorting-Numbers-and-Words
 Two programs:
 
 1) Sorting Three Numbers from largest to smallest:
